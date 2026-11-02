@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 140" width="240" height="140">
+  <rect width="240" height="140" fill="#1a0a26"/>
+  <path d="M20 105 C 50 80, 70 120, 100 95 S 150 70, 175 90" fill="none" stroke="#dfaef6" stroke-width="4" stroke-linecap="round"/>
+  <g transform="rotate(-35 185 60)">
+    <rect x="150" y="50" width="80" height="16" fill="#9755da"/>
+    <polygon points="150,50 150,66 128,58" fill="#eae9fc"/>
+    <polygon points="136,55 136,61 128,58" fill="#010104"/>
+    <rect x="224" y="50" width="10" height="16" fill="#66158c"/>
+  </g>
+</svg>

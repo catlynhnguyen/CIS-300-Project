@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 320" width="520" height="320">
+  <rect width="520" height="320" fill="#0a0412"/>
+  <line x1="50" y1="270" x2="490" y2="270" stroke="#eae9fc" stroke-width="2"/>
+  <line x1="50" y1="270" x2="50" y2="30" stroke="#eae9fc" stroke-width="2"/>
+  <text x="270" y="302" fill="#eae9fc" font-family="Arial, sans-serif" font-size="14" text-anchor="middle">Time spent practicing</text>
+  <text x="18" y="150" fill="#eae9fc" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" transform="rotate(-90 18 150)">Skill</text>
+  <path d="M50 262 C 90 220, 120 170, 160 150 C 200 135, 230 140, 300 142 C 340 144, 360 135, 390 100 C 420 65, 450 50, 480 42" fill="none" stroke="#9755da" stroke-width="5" stroke-linecap="round"/>
+  <rect x="170" y="108" width="140" height="64" rx="8" fill="none" stroke="#dfaef6" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="240" y="96" fill="#dfaef6" font-family="Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="middle">the awkward part</text>
+  <text x="240" y="190" fill="#eae9fc" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">most people quit here</text>
+</svg>
